@@ -1,6 +1,6 @@
 # QA-Test-Engineer-Bootcamp
 
-Techcareer.net tarafından düzenlenen QA Test Engineer bitirme projelerine aşağıda yer alan linkler üzerinden ulaşabilirsiniz.
+Techcareer.net tarafından düzenlenen QA Test Engineer Bootcamp bitirme projelerine aşağıda yer alan linkler üzerinden ulaşabilirsiniz.
 
 
 ## Bootcamp Ödevleri
