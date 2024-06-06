@@ -5,7 +5,6 @@ Techcareer.net tarafından düzenlenen QA Test Engineer Bootcamp bitirme projele
 
 ## Bootcamp Ödevleri
 
-[Manuel Test](https://github.com/tahacinar/Manuel-Test)
 
 [Parabank Test Otomasyonu ](https://github.com/tahacinar/Parabank-Test-Otomasyonu)
 
